@@ -1,5 +1,7 @@
-[![license: CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/80x15.png)](https://creativecommons.org/licenses/by-sa/3.0/)
+[![DOI](https://zenodo.org/badge/566711963.svg)](https://zenodo.org/badge/latestdoi/566711963)
 [![downloads](https://img.shields.io/github/downloads/ITISFoundation/IXI025/total.svg)](https://github.com/ITISFoundation/IXI025/releases)
+
+[![license: CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/80x15.png)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 # IXI025 Model - IT'IS Template Head Segmentation Repository
 
