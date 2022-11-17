@@ -1,5 +1,5 @@
 [![license: CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/80x15.png)](https://creativecommons.org/licenses/by-sa/3.0/)
-[![downloads](https://img.shields.io/github/downloads/ITISFoundation/IXI025/total.svg)](<>)
+[![downloads](https://img.shields.io/github/downloads/ITISFoundation/IXI025/total.svg)](https://github.com/ITISFoundation/IXI025/releases)
 
 # IXI025 Model - IT'IS Template Head Segmentation Repository
 
@@ -7,7 +7,7 @@ The IXI025 head model is based on Subject 025 from the [IXI dataset](https://bra
 
 This dataset is made public to support research in computational brain stimulation modeling, e.g., transcranial electric, magnetic, and acoustic brain stimulation, as well as temporal interference (TI) stimulation. The head model is used for Sim4Life tutorials by IT'IS and its partner organization ZMT Zurich MedTech AG.
 
-![Head segmentation and model](https://raw.githubusercontent.com/ITISFoundation/IXI025/main/visuals/head_model.png)
+![Head segmentation and model](visuals/head_model.png)
 
 ## Head Segmentation
 
