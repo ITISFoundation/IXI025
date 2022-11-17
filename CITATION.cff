@@ -15,5 +15,5 @@ identifiers:
   - description: This is the archived snapshot of version 1.0.0 of IXI025
     type: doi
     value: "10.5281/zenodo.6563519"
-license: CC BY-SA 3.0 license
+license: CC-BY-SA-3.0
 repository-code: "https://github.com/ITISFoundation/IXI025"
