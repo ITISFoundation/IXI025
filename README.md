@@ -7,7 +7,7 @@
 
 The IXI025 head model is based on Subject 025 from the [IXI dataset](https://brain-development.org/ixi-dataset/). It includes a whole head segmentation, surface-based model, fiducials for 10-10 system construction, as well as the original anatomical (T1w, T2w, PD, MRA) and diffusion weighted images. The head segmentation/model is in the original scanner coordinates, i.e., it is perfectly aligned with the magnetic resonance images.
 
-This dataset is made public to support research in computational brain stimulation modeling, e.g., transcranial electric, magnetic, and acoustic brain stimulation, as well as temporal interference (TI) stimulation. The head model is used for Sim4Life tutorials by IT'IS and its partner organization ZMT Zurich MedTech AG.
+This dataset is made public to support research in computational brain stimulation modeling, e.g., transcranial electric, magnetic, and acoustic brain stimulation, as well as temporal interference (TI) stimulation. The head model is used for [Sim4Life](https://zmt.swiss/sim4life/) tutorials by IT'IS and its partner organization ZMT Zurich MedTech AG.
 
 ![Head segmentation and model](visuals/head_model.png)
 
@@ -33,7 +33,7 @@ The head segmentation is provided as [NIfTI (.nii.gz)](https://brainder.org/2012
 | 14  | Artery                |
 | 15  | Bone_cancellous       |
 
-The iSEG-compatible [tissue list](IXI025-Guys-0852-SEG.txt) can easily be parsed and provides the colors and names. Background is implicitly *ID=0*.
+The [iSEG](https://github.com/ITISFoundation/osparc-iseg)-compatible [tissue list](IXI025-Guys-0852-SEG.txt) can easily be parsed and provides the colors and names. Background is implicitly *ID=0*.
 
 ## Head Model
 
