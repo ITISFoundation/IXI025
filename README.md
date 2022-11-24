@@ -10,7 +10,10 @@ The IXI025 head model is based on Subject 025 from the [IXI dataset](https://bra
 
 This dataset is made public to support research in computational brain stimulation modeling, e.g., transcranial electric, magnetic, and acoustic brain stimulation, as well as temporal interference (TI) stimulation. The head model is used for [Sim4Life](https://zmt.swiss/sim4life/) tutorials by IT'IS and its partner organization ZMT Zurich MedTech AG.
 
+The latest release of the IXI025 Model can be [downloaded here](https://github.com/ITISFoundation/IXI025/releases).
+
 ![Head segmentation and model](visuals/head_model.png)
+
 
 ## Head Segmentation
 
